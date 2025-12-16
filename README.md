@@ -1,1 +1,1 @@
-# Test-Repo
+# My Cool Project\nThis project was initialized via the GitHub MCP server.
